@@ -9,8 +9,6 @@
 * 0.5 tsk Salt Fint
 * 1 msk Mat & Bak Smör
 * Serveringsförslag
-* 2 dl Vispgrädde
-* 100 g Blåbär
 
 ## Description
 

@@ -1,7 +1,7 @@
 # Food.md
 
 ## list of ingredients
-> 4 portioner
+> 6 portioner
 
 * 3 st Ägg
 * 6 dl Mellanmjölk
